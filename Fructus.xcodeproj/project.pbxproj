@@ -16,6 +16,7 @@
 		96EDE09C2682EA8D0099E339 /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96EDE09B2682EA8D0099E339 /* OnboardingView.swift */; };
 		96F44135268666FF000AAA83 /* FruitModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96F44134268666FF000AAA83 /* FruitModel.swift */; };
 		96F4413926866BD2000AAA83 /* FruitData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96F4413826866BD2000AAA83 /* FruitData.swift */; };
+		96F90E012688FF2800211C0C /* FruitRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 96F90E002688FF2800211C0C /* FruitRowView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		96EDE09B2682EA8D0099E339 /* OnboardingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingView.swift; sourceTree = "<group>"; };
 		96F44134268666FF000AAA83 /* FruitModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitModel.swift; sourceTree = "<group>"; };
 		96F4413826866BD2000AAA83 /* FruitData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitData.swift; sourceTree = "<group>"; };
+		96F90E002688FF2800211C0C /* FruitRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitRowView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				96EDE0942682DF1A0099E339 /* FruitCardView.swift */,
 				96EDE0982682E6060099E339 /* StartButtonView.swift */,
+				96F90E002688FF2800211C0C /* FruitRowView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -187,6 +190,7 @@
 			files = (
 				96F4413926866BD2000AAA83 /* FruitData.swift in Sources */,
 				96EDE0952682DF1A0099E339 /* FruitCardView.swift in Sources */,
+				96F90E012688FF2800211C0C /* FruitRowView.swift in Sources */,
 				96EDE0992682E6060099E339 /* StartButtonView.swift in Sources */,
 				964E273E268186E20080F732 /* ContentView.swift in Sources */,
 				96EDE09C2682EA8D0099E339 /* OnboardingView.swift in Sources */,
