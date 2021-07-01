@@ -5,15 +5,11 @@ The app contains few of the fruits and their details. The app shows how many nut
 
 # Screenshots
 
-Onboarding Screen
 ![Alt text](/Screenshots/fructus_ss_1.png?raw=true "Onboarding Screen")
 
-Fruit List Screen
 ![Alt text](/Screenshots/fructus_ss_2.png?raw=true "Fruit list screen")
 
-Fruit Details Screen
 ![Alt text](/Screenshots/fructus_ss_3.png?raw=true "Fruit Details Screen")
 
-Settings Screen
 ![Alt text](/Screenshots/fructus_ss_4.png?raw=true "Settings Screen")
 
